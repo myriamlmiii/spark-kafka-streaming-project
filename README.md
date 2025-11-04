@@ -1,4 +1,4 @@
-# Real-Time Stream Processing with Apache Spark and Kafka
+# Real-Time Stream Processing with Apache Spark and Kafka ( BIG DATA )
 
 A distributed stream processing system built using Apache Spark Streaming and Apache Kafka, containerized with Docker for scalable real-time data processing.
 
